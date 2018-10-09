@@ -1,3 +1,5 @@
 # hello-world
 
-没
+I am Chang Chengqi.
+I am learning GitHub.
+喵喵喵～
